@@ -1,0 +1,9 @@
+a:active {
+    background-color: chartreuse;
+    font-style: italic;
+};
+
+a:hover {
+    background-color: transparent !important;
+}
+header {display: flex;}
